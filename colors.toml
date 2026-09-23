@@ -31,5 +31,7 @@ bright_cyan = "#83ECFF"
 bright_blue = "#9DBBFF"
 bright_magenta = "#EEB0FF"
 
-# Hyprland active border using Ubuntu orange
-hyprland_active_border = "rgba(FF6B35ee) rgba(D56BFFee) 45deg"
+# Hyprland borders: warm Ubuntu orange with a restrained aubergine finish
+hyprland_active_border = "rgba(FF6B35ff) rgba(E95420ff) rgba(77216Fff) 45deg"
+hyprland_inactive_border = "rgba(5E275066)"
+active_border_color = "#FF6B35"
