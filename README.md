@@ -16,4 +16,6 @@ Para cambiar entre los fondos incluidos:
 omarchy theme bg next
 ```
 
+Incluye fondos oficiales de Ubuntu LTS y de la versión actual, organizados por lanzamiento en `backgrounds/`. Consulta [`SOURCES.txt`](backgrounds/SOURCES.txt) para las fuentes.
+
 Este repositorio contiene únicamente el tema; no instala Omarchy, Arch Linux ni aplicaciones. Ubuntu y sus marcas pertenecen a Canonical Ltd.; este es un tema comunitario no oficial.

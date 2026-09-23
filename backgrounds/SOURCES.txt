@@ -1,0 +1,9 @@
+Official Ubuntu wallpaper packages downloaded from archive.ubuntu.com:
+
+- ubuntu-wallpapers-focal_26.04.2_all.deb — Ubuntu 20.04 LTS collection
+- ubuntu-wallpapers-jammy_26.04.2_all.deb — Ubuntu 22.04 LTS collection
+- ubuntu-wallpapers-noble_26.04.2_all.deb — Ubuntu 24.04 LTS collection
+- ubuntu-wallpapers-questing_26.10.1_all.deb — current Ubuntu collection
+
+The files retain their upstream names with a release prefix. Copyright and
+licensing remain with Canonical and the individual artwork authors.
