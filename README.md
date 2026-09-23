@@ -1,3 +1,5 @@
+![Ubuntu Omarchy Theme](cover.svg)
+
 # Ubuntu — Omarchy theme
 
 Tema inspirado en la identidad visual de Ubuntu: base aubergine, acentos naranja y fondos de escritorio de la familia Ubuntu.
